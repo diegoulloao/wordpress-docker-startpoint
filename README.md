@@ -40,6 +40,16 @@ Run:
 docker-compose up
 ```
 
+Open up your browser to http://localhost:8080/ and you should see your wordpress page as intended.
+
+--
+
+Containers created and their ports (if used) are as follows:
+
+- **wordpress** - `:8080`
+- **mysql** - `:3306`
+- **phpmyadmin** - `:9090`
+
 --
 
 **@diegoulloao · 2020**
