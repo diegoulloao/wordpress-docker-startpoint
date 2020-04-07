@@ -16,11 +16,9 @@ Open a Terminal, browse your projects location and run:
 git clone git@github.com:diegoulloao/wordpress-docker-startpoint.git project-name
 ```
 
-## Step 2. Get Wordpress.
+## Step 2. Install Wordpress.
 
-Enter in your `project-name` directory and copy your wordpress project.
-
-For a new one just run:
+Enter in your `project-name` directory and run:
 
 ```
 wget https://wordpress.org/latest.tar.gz
