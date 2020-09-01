@@ -13,7 +13,7 @@ This repository provides a complete wordpress setup enviroment.
 Open a Terminal, browse your projects location and run:
 
 ```bash
-git clone git@github.com:diegoulloao/wordpress-docker-startpoint.git project-name
+git clone https://github.com/diegoulloao/wordpress-docker-startpoint.git project-name
 ```
 
 ## Step 2. Install Wordpress.
